@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Shrestha</h1>
 <h3 align="center">A passionate about frontend development and i'm still a learner.</h3>
 
-- 🌱 I’m currently learning **bootstrap, python, reactjs.**
+- 🌱 I’m currently learning **bootstrap, python, django.**
 
 - 📫 How to reach me **mrjohn0721@gmail.com**
 
